@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **sneha31-debug/sneha31-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
